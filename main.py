@@ -6,7 +6,7 @@ while True:
     a = input("[>] Select Your Option: ") 
 
     if a == "1":
-        os.system("python3 sam.py")
+        os.system("python3 sms.py")
         a=input()
     elif a == "2":
         os.system("python3 github.py")
